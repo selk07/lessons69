@@ -1,4 +1,4 @@
-# Simple REST API with a Mongo database connection.
+# Refactoring the MongoDB project to Mongoose. Simple REST API with a Mongo database connection.
 ### 1. Create REST API using Node.js, Express.js
 ### 2. Connect MongoDB in current project and create new data base
 ### 3. Create CRUD operations.
